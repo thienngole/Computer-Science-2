@@ -1,0 +1,32 @@
+TEAM,ADD,1,Chicago Fire,Joe,Doe,312-123-4567,joe#chicagofire.com
+TEAM,ADD,2,D. C. United,Janet,Brown,202-123-4567,janet@united.com
+TEAM,ADD,3,Montreal Impact,Joseph,Davidson,514-123-4567,joseph@impact.com
+TEAM,ADD,4,New York City FC,Samantha,Davids ,212-123-4567,samantha@nycfc.com
+TEAM,ADD,5,Orlando City SC,Julia,Kennedy,321-123-4567,julia@orlandocitysc.com
+TEAM,ADD,6,Colorado Rapids,Nelson,London,303-123-4567,nelson@coloradorapids.com
+TEAM,ADD,7,FC Dallas,Mickey,Mouse,940-123-4567,mickey@fcdallas.com
+TEAM,ADD,8,LA Galaxy,Donald,Trump,310-123-4567,donald@galaxy.com
+TEAM,ADD,9,Portland Timbers,Hillary,Clinton,458-123-4567,hillary@portlandtimbers.com
+TEAM,ADD,10,Sporting Kansas City,Jill,Stein,913-123-4567,jill@sportingkc.com
+GAME,ADD,101,1,7,20160306,3,4
+GAME,ADD,102,8,2,20160306,4,1
+GAME,ADD,103,5,1,20160311,1,1
+GAME,ADD,104,3,4,20160312,3,0
+GAME,ADD,105,6,8,20160312,1,0
+GAME,ADD,106,4,5,20160313,0,1
+GAME,ADD,107,7,3,20160319,2,0
+GAME,ADD,108,2,6,20160320,1,2
+GAME,ADD,109,2,7,20160326,0,3
+GAME,ADD,110,5,10,20160403,4,1
+GAME,ADD,111,3,5,20160409,2,0
+GAME,ADD,112,4,10,20160416,0,2
+GAME,ADD,113,4,1,20160410,0,0
+GAME,ADD,114,8,9,20160410,1,2
+GAME,ADD,115,10,6,20160413,1,2
+GAME,ADD,116,9,7,20160413,1,3
+GAME,ADD,117,1,3,20160416,1,2
+GAME,ADD,118,6,4,20150419,2,1
+GAME,ADD,119,6,4,20160419,2,1
+GAME,ADD,120,7,10,20160507,2,1
+TEAM,DEL,11
+GAME,DEL,125

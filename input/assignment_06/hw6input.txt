@@ -1,0 +1,14 @@
+TEAM,ADD,1,Chicago Fire,Joe,Doe,312-123-4567,joe@chicagofire.com
+TEAM,ADD,3,Montreal Impact,Joseph,Davidson,514-123-4567,joseph@impact.com
+TEAM,ADD,3,Montreal Impact,Joseph,Davidson,514-123-4567,joseph@impact.com
+TEAM,DEL,7
+TEAM,ADD,5,New York City FC,Samantha,Davids ,212-123-4567,samantha@nycfc.com
+TEAM,ADD,7,Colorado Rapids,Nelson,London,303-123-4567,nelson@coloradorapids.com
+TEAM,ADD,9,FC Dallas,Mickey,Mouse,940-123-4567,mickey@fcdallas.com
+TEAM,ADD,2,Portland Timbers,Hillary,Clinton,458-123-4567,hillary@portlandtimbers.com
+TEAM,ADD,4,Sporting Kansas City,Jill,Stein,913-123-4567,jill@sportingkc.com
+TEAM,ADD,6,D. C. United,Janet,Brown,202-123-4567,janet@united.com
+TEAM,ADD,8,Orlando City SC,Julia,Kennedy,321-123-4567,julia@orlandocitysc.com
+TEAM,ADD,10,LA Galaxy,Donald,Trump,310-123-4567,donald@galaxy.com
+TEAM,DEL,3
+TEAM,DEL,1
