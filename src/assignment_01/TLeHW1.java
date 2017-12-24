@@ -23,7 +23,7 @@ public class TLeHW1
     {
         
         //Define the input file's name
-        final String INPUT_FILENAME = "input/hw1input.txt";
+        final String INPUT_FILENAME = "input/assignment_01/hw1input.txt";
         
          //Test Set 1: this first set of tests will test the constructors with 
          //parameters for each attribute and the toString() method for each class.

@@ -19,7 +19,7 @@ public class TLeHW5
     private static ArrayBag<Team> listOfTeams;
     
     // Define the intput file's names
-    private static final String INPUT_FILE_NAME = "input/hw5input.txt";
+    private static final String INPUT_FILE_NAME = "input/assignment_05/hw5input.txt";
     
     // Define the output files' names
     private static final String OUTPUT_FILE_NAME1 = "output/hw5output1.txt";

@@ -22,7 +22,7 @@ public class TLeHW2
     private static ArrayBag<Game> listOfGames;
     
     // Define the files' names
-    private static final String INPUT_FILE_NAME = "input/hw2input1.txt";
+    private static final String INPUT_FILE_NAME = "input/assignment_02/hw2input1.txt";
     private static final String OUTPUT_FILE_NAME = "output/hw2output1.txt";
 
     /**

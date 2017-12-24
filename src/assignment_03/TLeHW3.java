@@ -21,7 +21,7 @@ public class TLeHW3
     private static LinkedListBag<Game> listOfGames;
     
     // Define the files' names
-    private static final String INPUT_FILE_NAME = "input/hw3input3.txt";
+    private static final String INPUT_FILE_NAME = "input/assignment_03/hw3input3.txt";
     private static final String OUTPUT_FILE_NAME = "output/hw3output3.txt";
 
 

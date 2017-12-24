@@ -1,0 +1,10 @@
+#ID Teams' Name           FirstName LastName  Phone Number   Email Address 
+--------------------------------------------------------------------------------
+10  LA Galaxy             Donald    Trump     0310-123-4567  donald@galaxy.com
+2   Portland Timbers      Hillary   Clinton   0458-123-4567  hillary@portlandtimbers.com
+4   Sporting Kansas City  Jill      Stein     0913-123-4567  jill@sportingkc.com
+5   New York City FC      Samantha  Davids    0212-123-4567  samantha@nycfc.com
+6   D. C. United          Janet     Brown     0202-123-4567  janet@united.com
+7   Colorado Rapids       Nelson    London    0303-123-4567  nelson@coloradorapids.com
+8   Orlando City SC       Julia     Kennedy   0321-123-4567  julia@orlandocitysc.com
+9   FC Dallas             Mickey    Mouse     0940-123-4567  mickey@fcdallas.com

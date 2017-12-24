@@ -19,7 +19,7 @@ public class TLeHW6
     private static SortedLinkedList<Team> listOfTeams;
     
     // Define the intput file's names
-    private static final String INPUT_FILE_NAME = "input/hw6input.txt";
+    private static final String INPUT_FILE_NAME = "input/assignment_06/hw6input.txt";
     
     // Define the output files' names
     private static final String OUTPUT_FILE_NAME = "output/hw6output.txt";
